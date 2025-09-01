@@ -1,4 +1,4 @@
 # SRM-DEMO
 Name : Priyanshu Dwivedi
 <br><br>
-Collage : SRM
+College : SRMCEM
